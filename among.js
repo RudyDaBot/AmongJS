@@ -2,6 +2,7 @@ const susify = (arg) => {
     return(arg + " is sus");
 }
 
+
 const eject = (name, noOfImposters) => {
 
     if (noOfImposters !== 1 && noOfImposters !== 0) {
@@ -17,3 +18,5 @@ const eject = (name, noOfImposters) => {
    
 }
 
+export default susify;
+export default eject;
