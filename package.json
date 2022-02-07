@@ -1,0 +1,19 @@
+{
+	"name": "amongjs",
+	"version": "0.0.2",
+	"description": "makes your code sus",
+	"main": "init.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/grobo021/AmongJS.git"
+	},
+	"author": "",
+	"license": "UNLICENSED",
+	"bugs": {
+		"url": "https://github.com/grobo021/AmongJS/issues"
+	},
+	"homepage": "https://github.com/grobo021/AmongJS#readme"
+}
