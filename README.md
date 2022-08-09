@@ -13,3 +13,5 @@ git commit -m "message of commit; includes changes"
 git push -u origin master # first push
 git push # all the other pushes
 ```
+
+This repo is archived as i have no more intention of updating it.
